@@ -1,0 +1,10 @@
+Doctor{MedicalLicenseNumber=1003, Specialisation='medical', FirstName='jace', SurName='ashley', DateOfBirth='03/06/1987', MobileNumber=940003}
+Doctor{MedicalLicenseNumber=10010, Specialisation='medical', FirstName='kat', SurName='beg', DateOfBirth='01/06/1987', MobileNumber=9400010}
+Doctor{MedicalLicenseNumber=1004, Specialisation='surgical', FirstName='paul', SurName='ellis', DateOfBirth='03/05/1987', MobileNumber=940004}
+Doctor{MedicalLicenseNumber=1006, Specialisation='cosmetic', FirstName='miles', SurName='ford', DateOfBirth='11/08/1985', MobileNumber=940006}
+Doctor{MedicalLicenseNumber=1008, Specialisation='medical', FirstName='finn', SurName='gray', DateOfBirth='13/12/2001', MobileNumber=940008}
+Doctor{MedicalLicenseNumber=1001, Specialisation='cosmetic', FirstName='olivia', SurName='hope', DateOfBirth='01/02/1998', MobileNumber=940001}
+Doctor{MedicalLicenseNumber=1002, Specialisation='medical', FirstName='max', SurName='lopez', DateOfBirth='01/02/1998', MobileNumber=940002}
+Doctor{MedicalLicenseNumber=1007, Specialisation='cosmetic', FirstName='emma', SurName='wilson', DateOfBirth='03/04/1999', MobileNumber=940007}
+Doctor{MedicalLicenseNumber=1009, Specialisation='surgical', FirstName='kyle', SurName='wixx', DateOfBirth='15/02/1999', MobileNumber=940009}
+Doctor{MedicalLicenseNumber=10036, Specialisation='cosmetic', FirstName='selena', SurName='gomez', DateOfBirth='05/12/1998', MobileNumber=940025}
